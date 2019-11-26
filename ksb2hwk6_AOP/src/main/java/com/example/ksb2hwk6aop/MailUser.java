@@ -2,7 +2,7 @@ package com.example.ksb2hwk6aop;
 
 public class MailUser {
 
-    String user = "twoj email@gmail.com";//todo wpisz swoj email
+    String user = "darlicki@gmail.com";//todo wpisz swoj email
     String subject ="test ksb2";
     String text = "test";
 

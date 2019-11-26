@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ksb2hwk6_AOP/ksb2hwk6_AOP.iml" filepath="$PROJECT_DIR$/../ksb2hwk6_AOP/ksb2hwk6_AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksb2hwk6_AOP/ksb2hwk6aop.iml" filepath="$PROJECT_DIR$/ksb2hwk6_AOP/ksb2hwk6aop.iml" />
     </modules>
   </component>
 </project>

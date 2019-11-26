@@ -8,3 +8,10 @@ która wymaga od Ciebie researchu.
 
 Pamiętaj, że wysyłka maila ma odbywać się z wykorzystaniem aspektu!
 Zastosuj odpowiednia poradę po dodaniu nowego elementu do listy 😊
+
+
+porady:
+Trzeba pamiętać o odpowiedzialności klas. Nie możesz wywołać aspektu dla metody ujętej w RestController.
+ Możesz np. stworzyć metodę która będzie nasłuchiwana w innej klasie a w RestControler ją wywołać i będzie działać
+ 　 Polecam też stosowanie w klasach skrótku klawiszowego ctrl + alt + L (ułatwi życie 　).
+  Adnotacje @Aspect stosuj tylko w klasach w których definiowane są porady - we wszystkich pozostałych jest ona zbędna.

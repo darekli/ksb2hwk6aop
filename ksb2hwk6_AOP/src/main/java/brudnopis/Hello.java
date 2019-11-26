@@ -9,7 +9,7 @@ public class Hello {
     @EventListener(ApplicationReadyEvent.class)
     @HalloAspect
     public String sayHello() {
-        System.out.println("Hello z lkasy Hello");
+        System.out.println("Hello z klasy Hello");
         return "return Hello z klasy Hello";
     }
 }
